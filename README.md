@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://bg-img-slider-2.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Background Image Slider #2 - Seasons</h3>
 </div>
@@ -25,7 +25,7 @@
   
 - **JavaScript** is a versatile programming language that enables interactive and dynamic functionality on web pages. It allows developers to create features like form validation, animations, and asynchronous content loading. JavaScript is essential for building modern web applications and works seamlessly with HTML and CSS to create a complete user experience.
 
-- **Swiper.js** is a modern, free, mobile touch slider with hardware-accelerated transitions. It is used to create responsive, swipeable sliders and carousels with a wide range of customization options. Swiper.js supports various transition effects, navigation controls, and is compatible with all major web browsers and mobile platforms.
+- **Swiper.js** is a modern, free, mobile touch slider with hardware-accelerated transitions. It is used to create responsive, swipeable sliders and carousels with a wide range of customization options. Swiper.js supports various transition effects, navigation controls, and is compatible with all major web browsers and mobile platforms. [📄](https://scrollrevealjs.org/guide/hello-world.html) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
